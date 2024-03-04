@@ -19,7 +19,7 @@ body, html {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('aerospike_engine.gif') center/cover no-repeat;
+    background: url('https://raw.githubusercontent.com/ColeAndersen1/InterstellarWebsite/1bf3c15599a4c2c9673db3581fa11121af470734/aerospike_engine.gif') center/cover no-repeat;
     filter: blur(8px);
     z-index: -1;
 }
