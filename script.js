@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Set the date we're counting down to
-    var countDownDate = new Date("January 20, 2026 14:00:00").getTime();
+    var countDownDate = new Date("Jan 20, 2026 14:00:00").getTime();
 
     // Update the countdown every 1 second
     var x = setInterval(function() {
